@@ -1,0 +1,17 @@
+body{background-color: rgb(130, 206, 241);
+    font-family: sans-serif  }
+    h2{color: #ec5b0d; text-align: center;}
+    .p2{color: #dd1414; font-size: 20px; }
+    .p1{color: #ff33ff; font-size: 20px; }
+    .p3{color: blue; font-size: 20px;}
+    .container{
+    margin: 0 auto;
+    width: 1440px;
+    }
+    .img1{width: 125px; height: 125px;}
+    .img2{width: 200px; height: 125px;}
+    .img3{width: 125px; height: 125px;}
+    
+    .card1{display: flex; align-items: center; justify-content: space-between;}
+    .card2{display: flex; align-items: center; justify-content: space-between;}
+    .card3{display: flex; align-items: center; justify-content: space-between;} 
